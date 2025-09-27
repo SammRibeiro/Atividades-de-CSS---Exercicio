@@ -1,3 +1,3 @@
-# Atividades-de-CSS---FlexBox-3
+# Atividades-de-CSS---Exercicio
 
-Repositório criado para postagem da atividade prática de Flex Box 03.
+Repositório criado para postagem da atividade prática de CSS.
